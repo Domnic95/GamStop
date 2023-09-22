@@ -25,8 +25,8 @@ class _ContactUsPageState extends State<ContactUsPage> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 // mainAxisAlignment: MainAxisAlignment.start,
                 children: [
-                  listTileConst(icon: Icons.email_sharp,title: "Email us:",subTitle: "help@betonline.ag"),
-                  listTileConst(icon: Icons.phone,title: "Speak to us:",subTitle: "+11-888-426-3661"),
+                  listTileConst(icon: Icons.email_sharp,title: "Email us:",subTitle: "helpdesk@gamstop.co.uk"),
+                  listTileConst(icon: Icons.phone,title: "Speak to us:",subTitle: "0800 138 6518"),
                 ],
               ),
             )),

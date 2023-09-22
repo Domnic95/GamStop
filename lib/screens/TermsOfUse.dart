@@ -14,39 +14,39 @@ class TermsOfUse extends StatelessWidget {
       child: Container(
         color: Appcolor.whitecolor,
         padding: const EdgeInsets.all(8.0),
-        child: SingleChildScrollView(
+        child: const SingleChildScrollView(
           child: Column(
-            children: [
+            children:[
               // Divider(
               //   color: Appcolor.secondaryblueColor,
               //   height: 5,
               //   thickness: 1,
               // ),
-              const SizedBox(
+              SizedBox(
                 height: 10,
               ),
-              const Align(
+              Align(
                 alignment: Alignment.centerLeft,
                 child: Text(
                   "Terms of Use",
-                  style: TextStyle(
+                  style:TextStyle(
                       color: Appcolor.secondarycolor,
                       fontWeight: FontWeight.w700,
                       fontSize: 20,
                       wordSpacing: 1),
                 ),
               ),
-              const SizedBox(
+              SizedBox(
                 height: 10,
               ),
               Column(
-                children: const [
+                children: [
                   Align(
                     alignment: Alignment.centerLeft,
                     child: Padding(
                       padding: EdgeInsets.only(left: 10.0, top: 5),
                       child: Text(
-                        'Welcome to Mobile Betonline!',
+                        'Welcome to Mobile gamstop!',
                         textAlign: TextAlign.left,
                         style: TextStyle(
                             color: Appcolor.betDarkGrey,
@@ -60,7 +60,7 @@ class TermsOfUse extends StatelessWidget {
                     child: Padding(
                       padding: EdgeInsets.only(left: 10.0, top: 5),
                       child: Text(
-                        '''These terms and conditions establish the rules and regulations for your use of Mobile Betonline. By accessing and using this app, you acknowledge that you have read, understood, and agree to comply with all the terms and conditions outlined on this page. If you do not agree to these terms and conditions, please refrain from using Mobile Betonline.''',
+                        '''These terms and conditions establish the rules and regulations for your use of Mobile gamstop. By accessing and using this app, you acknowledge that you have read, understood, and agree to comply with all the terms and conditions outlined on this page. If you do not agree to these terms and conditions, please refrain from using Mobile gamstop.''',
                         textAlign: TextAlign.left,
                         style: TextStyle(
                             color: Appcolor.betDarkGrey,
@@ -85,7 +85,7 @@ class TermsOfUse extends StatelessWidget {
                   ),
                 ],
               ),
-              const SizedBox(
+              SizedBox(
                 height: 20,
               ),
               Align(
@@ -99,13 +99,13 @@ class TermsOfUse extends StatelessWidget {
                       wordSpacing: 1),
                 ),
               ),
-              const SizedBox(
+              SizedBox(
                 height: 10,
               ),
               Padding(
                 padding: EdgeInsets.only(left: 10.0, top: 10),
                 child: Text(
-                  "Unless otherwise stated, Mobile Betonline and/or its licensors own the intellectual property rights for all materials on Mobile Betonline. All intellectual property rights are reserved. You may access and use the materials on Mobile Betonline for personal purposes, subject to the restrictions set forth in these terms and conditions. You must not:",
+                  "Unless otherwise stated, Mobile gamstop and/or its licensors own the intellectual property rights for all materials on Mobile gamstop. All intellectual property rights are reserved. You may access and use the materials on Mobile gamstop for personal purposes, subject to the restrictions set forth in these terms and conditions. You must not:",
                   textAlign: TextAlign.left,
                   style: TextStyle(
                       color: Appcolor.betDarkGrey,
@@ -115,7 +115,7 @@ class TermsOfUse extends StatelessWidget {
               ),
               Row(
                 crossAxisAlignment: CrossAxisAlignment.start,
-                children: const [
+                children: [
                   Text(
                     "•	",
                     style: TextStyle(
@@ -125,7 +125,7 @@ class TermsOfUse extends StatelessWidget {
                   ),
                   Expanded(
                     child: Text(
-                      "Republish material from Mobile Betonline.",
+                      "Republish material from Mobile gamstop.",
                       style: TextStyle(
                           color: Appcolor.betDarkGrey,
                           fontWeight: FontWeight.w400,
@@ -138,7 +138,7 @@ class TermsOfUse extends StatelessWidget {
                 padding: EdgeInsets.only(left: 10.0, top: 5),
                 child: Row(
                   crossAxisAlignment: CrossAxisAlignment.start,
-                  children: const [
+                  children: [
                     Text(
                       "•	",
                       style: TextStyle(
@@ -148,7 +148,7 @@ class TermsOfUse extends StatelessWidget {
                     ),
                     Expanded(
                       child: Text(
-                        "Sell, rent, or sublicense material from Mobile Betonline.",
+                        "Sell, rent, or sublicense material from Mobile gamstop.",
                         style: TextStyle(
                             color: Appcolor.betDarkGrey,
                             fontWeight: FontWeight.w400,
@@ -160,7 +160,7 @@ class TermsOfUse extends StatelessWidget {
               ),
               Row(
                 crossAxisAlignment: CrossAxisAlignment.start,
-                children: const [
+                children: [
                   Text(
                     "•	",
                     style: TextStyle(
@@ -170,7 +170,7 @@ class TermsOfUse extends StatelessWidget {
                   ),
                   Expanded(
                     child: Text(
-                      "Reproduce, duplicate, or copy material from Mobile Betonline.",
+                      "Reproduce, duplicate, or copy material from Mobile gamstop.",
                       style: TextStyle(
                           color: Appcolor.betDarkGrey,
                           fontWeight: FontWeight.w400,
@@ -183,7 +183,7 @@ class TermsOfUse extends StatelessWidget {
                 padding: EdgeInsets.only(left: 10.0, top: 5),
                 child: Row(
                   crossAxisAlignment: CrossAxisAlignment.start,
-                  children: const [
+                  children: [
                     Text(
                       "•	",
                       style: TextStyle(
@@ -193,7 +193,7 @@ class TermsOfUse extends StatelessWidget {
                     ),
                     Expanded(
                       child: Text(
-                        "Redistribute content from Mobile Betonline.",
+                        "Redistribute content from Mobile gamstop.",
                         style: TextStyle(
                             color: Appcolor.betDarkGrey,
                             fontWeight: FontWeight.w400,
@@ -208,7 +208,7 @@ class TermsOfUse extends StatelessWidget {
                 child: Padding(
                   padding: EdgeInsets.only(left: 10.0, top: 10),
                   child: Text(
-                    'This Agreement begins on the date specified. Certain parts of this app provide users with the opportunity to post and exchange opinions and information in specific areas of the website. Mobile Betonline does not filter, edit, publish, or review Comments prior to their presence on the website. Comments reflect the views and opinions of the individuals who post them and do not necessarily represent the views and opinions of Mobile Betonline, its agents, and/or affiliates. To the extent permitted by applicable laws, Mobile Betonline shall not be liable for the Comments or for any liability, damages, or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website. Mobile Betonline reserves the right to monitor all Comments and to remove any Comments that may be considered inappropriate, offensive, or in violation of these Terms and Conditions.',
+                    'This Agreement begins on the date specified. Certain parts of this app provide users with the opportunity to post and exchange opinions and information in specific areas of the website. Mobile gamstop does not filter, edit, publish, or review Comments prior to their presence on the website. Comments reflect the views and opinions of the individuals who post them and do not necessarily represent the views and opinions of Mobile gamstop, its agents, and/or affiliates. To the extent permitted by applicable laws, Mobile gamstop shall not be liable for the Comments or for any liability, damages, or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website. Mobile gamstop reserves the right to monitor all Comments and to remove any Comments that may be considered inappropriate, offensive, or in violation of these Terms and Conditions.',
                     textAlign: TextAlign.left,
                     style: TextStyle(
                         color: Appcolor.betDarkGrey,
@@ -217,7 +217,7 @@ class TermsOfUse extends StatelessWidget {
                   ),
                 ),
               ),
-              const SizedBox(
+              SizedBox(
                 height: 20,
               ),
               Align(
@@ -231,12 +231,12 @@ class TermsOfUse extends StatelessWidget {
                       wordSpacing: 1),
                 ),
               ),
-              const SizedBox(
+              SizedBox(
                 height: 10,
               ),
               Row(
                 crossAxisAlignment: CrossAxisAlignment.start,
-                children: const [
+                children: [
                   Text(
                     "•	",
                     style: TextStyle(
@@ -257,7 +257,7 @@ class TermsOfUse extends StatelessWidget {
               ),
               Row(
                 crossAxisAlignment: CrossAxisAlignment.start,
-                children: const [
+                children: [
                   Text(
                     "•	",
                     style: TextStyle(
@@ -278,7 +278,7 @@ class TermsOfUse extends StatelessWidget {
               ),
               Row(
                 crossAxisAlignment: CrossAxisAlignment.start,
-                children: const [
+                children: [
                   Text(
                     "•	",
                     style: TextStyle(
@@ -299,7 +299,7 @@ class TermsOfUse extends StatelessWidget {
               ),
               Row(
                 crossAxisAlignment: CrossAxisAlignment.start,
-                children: const [
+                children: [
                   Text(
                     "•	",
                     style: TextStyle(
@@ -323,7 +323,7 @@ class TermsOfUse extends StatelessWidget {
                 child: Padding(
                   padding: EdgeInsets.only(left: 10.0, top: 10),
                   child: Text(
-                    'You hereby grant Mobile Betonline a non-exclusive license to use, reproduce, edit, and authorize others to use, reproduce, and edit any of your Comments in any and all forms, formats, or media.',
+                    'You hereby grant Mobile gamstop a non-exclusive license to use, reproduce, edit, and authorize others to use, reproduce, and edit any of your Comments in any and all forms, formats, or media.',
                     textAlign: TextAlign.left,
                     style: TextStyle(
                         color: Appcolor.betDarkGrey,
@@ -332,7 +332,7 @@ class TermsOfUse extends StatelessWidget {
                   ),
                 ),
               ),
-              const SizedBox(
+              SizedBox(
                 height: 20,
               ),
               Align(
@@ -346,7 +346,7 @@ class TermsOfUse extends StatelessWidget {
                       wordSpacing: 1),
                 ),
               ),
-              const SizedBox(
+              SizedBox(
                 height: 10,
               ),
               Text(
@@ -361,7 +361,7 @@ class TermsOfUse extends StatelessWidget {
                 padding: EdgeInsets.only(left: 10.0, top: 5),
                 child: Row(
                   crossAxisAlignment: CrossAxisAlignment.start,
-                  children: const [
+                  children: [
                     Text(
                       "•	",
                       style: TextStyle(
@@ -383,7 +383,7 @@ class TermsOfUse extends StatelessWidget {
               ),
               Row(
                 crossAxisAlignment: CrossAxisAlignment.start,
-                children: const [
+                children: [
                   Text(
                     "•	",
                     style: TextStyle(
@@ -404,7 +404,7 @@ class TermsOfUse extends StatelessWidget {
               ),
               Row(
                 crossAxisAlignment: CrossAxisAlignment.start,
-                children: const [
+                children: [
                   Text(
                     "•	",
                     style: TextStyle(
@@ -425,7 +425,7 @@ class TermsOfUse extends StatelessWidget {
               ),
               Row(
                 crossAxisAlignment: CrossAxisAlignment.start,
-                children: const [
+                children: [
                   Text(
                     "•	",
                     style: TextStyle(
@@ -446,7 +446,7 @@ class TermsOfUse extends StatelessWidget {
               ),
               Row(
                 crossAxisAlignment: CrossAxisAlignment.start,
-                children: const [
+                children: [
                   Text(
                     "•	",
                     style: TextStyle(
@@ -465,7 +465,7 @@ class TermsOfUse extends StatelessWidget {
                   )
                 ],
               ),
-              const SizedBox(
+              SizedBox(
                 height: 20,
               ),
             ],

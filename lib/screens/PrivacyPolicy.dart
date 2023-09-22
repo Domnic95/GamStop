@@ -49,7 +49,7 @@ class PrivacyPolicy extends StatelessWidget {
                 height: 10,
               ),
               const Text(
-                "At Mobile Betonline, ensuring the privacy of our visitors is one of our utmost priorities. This document, our Privacy Policy, provides details on the information collected and used by Mobile Betonline. If you have any questions or need further clarification about our PrivacyPolicy, please feel free to contact us.",
+                "At Mobile gamstop, ensuring the privacy of our visitors is one of our utmost priorities. This document, our Privacy Policy, provides details on the information collected and used by Mobile gamstop. If you have any questions or need further clarification about our PrivacyPolicy, please feel free to contact us.",
                 textAlign: TextAlign.left,
                 style: TextStyle(
                     color: Appcolor.betDarkGrey,
@@ -74,7 +74,7 @@ class PrivacyPolicy extends StatelessWidget {
                 height: 10,
               ),
               const   Text(
-                "Mobile Betonline follows standard procedures that involve the use of log files. These files record and store information when visitors use our app. The collected data includes internet protocol (IP) addresses, browser types, Internet Service Providers (ISPs), date and time stamps, referring/exit pages, and potentially the number of clicks. None of this information personally identifies individuals. We collect this data to analyze trends, administer the app, track user movement, and gather demographic information.",
+                "Mobile gamstop follows standard procedures that involve the use of log files. These files record and store information when visitors use our app. The collected data includes internet protocol (IP) addresses, browser types, Internet Service Providers (ISPs), date and time stamps, referring/exit pages, and potentially the number of clicks. None of this information personally identifies individuals. We collect this data to analyze trends, administer the app, track user movement, and gather demographic information.",
                 textAlign: TextAlign.left,
                 style: TextStyle(
                     color: Appcolor.betDarkGrey,
@@ -157,7 +157,7 @@ class PrivacyPolicy extends StatelessWidget {
                 height: 10,
               ),
               const Text(
-                "To find the Privacy Policy of each advertising partner associated with Mobile Betonline, please refer to the list below. Third-party ad servers or ad networks may employ technologies such as cookies, JavaScript, or Beacons in their advertisements and links displayed on Mobile Betonline. When you access such content, your IP address is automatically received. These technologies are used to measure the effectiveness of advertising campaigns and/or personalize the advertising content you encounter on this app or other apps and websites. Please note that Mobile Betonline has no access to or control over the cookies used by thirdparty advertisers.",
+                "To find the Privacy Policy of each advertising partner associated with Mobile gamstop, please refer to the list below. Third-party ad servers or ad networks may employ technologies such as cookies, JavaScript, or Beacons in their advertisements and links displayed on Mobile gamstop. When you access such content, your IP address is automatically received. These technologies are used to measure the effectiveness of advertising campaigns and/or personalize the advertising content you encounter on this app or other apps and websites. Please note that Mobile gamstop has no access to or control over the cookies used by thirdparty advertisers.",
                 textAlign: TextAlign.left,
                 style: TextStyle(
                     color: Appcolor.betDarkGrey,
@@ -182,7 +182,7 @@ class PrivacyPolicy extends StatelessWidget {
                 height: 10,
               ),
               const   Text(
-                "Mobile Betonline's Privacy Policy does not apply to other advertisers or websites. Therefore, we encourage you to consult the Privacy Policies of these third-party ad servers for more comprehensive information. These policies may include details about their practices and instructions on how to opt out of specific options.",
+                "Mobile gamstop's Privacy Policy does not apply to other advertisers or websites. Therefore, we encourage you to consult the Privacy Policies of these third-party ad servers for more comprehensive information. These policies may include details about their practices and instructions on how to opt out of specific options.",
                 textAlign: TextAlign.left,
                 style: TextStyle(
                     color: Appcolor.betDarkGrey,
@@ -207,7 +207,7 @@ class PrivacyPolicy extends StatelessWidget {
                 height: 10,
               ),
               const Text(
-                "Protecting children while they use the internet is a significant aspect of our commitment. We urge parents, guardians, and caregivers to supervise, participate in, monitor, and guide the online activities of children. Mobile Betonline does not knowingly collect any personally identifiable information from children under the age of 13. If you believe that your child has provided such information on our app, please contact us immediately, and we will make every effortto promptly remove such data from our records.",
+                "Protecting children while they use the internet is a significant aspect of our commitment. We urge parents, guardians, and caregivers to supervise, participate in, monitor, and guide the online activities of children. Mobile gamstop does not knowingly collect any personally identifiable information from children under the age of 13. If you believe that your child has provided such information on our app, please contact us immediately, and we will make every effortto promptly remove such data from our records.",
                 textAlign: TextAlign.left,
                 style: TextStyle(
                     color: Appcolor.betDarkGrey,
@@ -232,7 +232,7 @@ class PrivacyPolicy extends StatelessWidget {
                 height: 10,
               ),
               const  Text(
-                "This Privacy Policy applies exclusively to our online activities and covers the information shared and/or collected on Mobile Betonline. It does not apply to any offline information collection or channels other than this app. Our Privacy Policy was generated with the assistance of the App Privacy Policy Generator from App-Privacy-Policy.com.",
+                "This Privacy Policy applies exclusively to our online activities and covers the information shared and/or collected on Mobile gamstop. It does not apply to any offline information collection or channels other than this app. Our Privacy Policy was generated with the assistance of the App Privacy Policy Generator from App-Privacy-Policy.com.",
                 textAlign: TextAlign.left,
                 style: TextStyle(
                     color: Appcolor.betDarkGrey,
